@@ -1,0 +1,4 @@
+caminho do arquivo; número de linhas; número de palavras; número de caracteres
+./arquivos/arquivo.txt; 4; 165; 969
+./arquivos/arquivo2.txt; 4; 137; 820
+./arquivos/arquivo3.txt; 6; 139; 755
