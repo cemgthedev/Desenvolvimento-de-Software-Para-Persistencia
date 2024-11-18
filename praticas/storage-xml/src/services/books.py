@@ -9,7 +9,7 @@ router = APIRouter()
 # Caminho do arquivo XML
 filepath = os.path.join("data", "books.xml")
 
-# Rota para criar um novo usuário
+# Rota para criar um novo livro
 @router.post("/books")
 async def create_book(book: Book):
     try:        
