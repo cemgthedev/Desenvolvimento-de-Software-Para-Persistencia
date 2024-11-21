@@ -1,0 +1,20 @@
+2024-11-21 13:27:04,765 - INFO - Tentativa de criar um novo livro.
+2024-11-21 13:27:04,777 - INFO - Livro criado com sucesso: 1984 (v88ijbo23y7wtqt4257f1uwid)
+2024-11-21 13:27:06,095 - INFO - Tentativa de criar um novo livro.
+2024-11-21 13:27:06,095 - INFO - Livro criado com sucesso: 1984 (drns3qefexuev6e9kme82mder)
+2024-11-21 13:28:14,275 - INFO - Listando todos os livros.
+2024-11-21 13:28:14,275 - INFO - Encontrados 6 livros.
+2024-11-21 13:28:46,590 - INFO - Listando todos os livros.
+2024-11-21 13:35:35,101 - INFO - Buscando livro pelo ID.
+2024-11-21 13:35:35,101 - INFO - O livro foi encontrado.
+2024-11-21 13:35:51,101 - INFO - Buscando livro pelo ID.
+2024-11-21 13:35:51,114 - ERROR - Erro inesperado ao buscar livro: 404: Book not found
+2024-11-21 13:36:15,028 - INFO - Buscando livro pelo ID.
+2024-11-21 13:36:15,028 - INFO - O livro foi encontrado.
+2024-11-21 13:36:30,647 - INFO - Atualizando livro.
+2024-11-21 13:36:30,660 - INFO - Livro nao encontrado.
+2024-11-21 13:36:30,660 - ERROR - Erro inesperado ao atualizar livro: 404: Book not found
+2024-11-21 13:36:44,295 - INFO - Atualizando livro.
+2024-11-21 13:36:44,295 - INFO - Livro atualizado com sucesso.
+2024-11-21 13:37:43,977 - INFO - Lendo o arquivo de log.
+2024-11-21 13:38:15,606 - INFO - Lendo o arquivo de log.
